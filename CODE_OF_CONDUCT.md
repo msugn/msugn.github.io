@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-layout: template
+theme: jekyll-theme-minimal
 filename: CODE_OF_CONDUCT.md
 --- 
 
