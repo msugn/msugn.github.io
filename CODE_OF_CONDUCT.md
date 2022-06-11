@@ -1,3 +1,9 @@
+---
+title: Code of Conduct
+layout: template
+filename: CODE_OF_CONDUCT.md
+--- 
+
 # Conference Code of Conduct
 
 All attendees, speakers, sponsors and volunteers are required to agree with the following code of conduct. Organizers will enforce this code throughout all meetups. 
